@@ -1,0 +1,50 @@
+
+
+.h-img{
+ width: 8%;   
+
+}
+#div-1{
+    display: flex;
+    margin-left: 80%;
+    margin-top: -2%;
+    font-size: 23px;
+    list-style-type: none;
+    font-weight: 700;
+    
+    
+}
+
+.li1{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+.li2{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.li3{
+    color: black;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 5px;
+    font-size: 23px;
+   
+}
+.head1{
+    margin: 55px;
+    color: rgb(32, 35, 41);
+    border: none;
+    font-weight: 900;
+    z-index: 1;
+    font-size: 5.625rem;
+};
+.main-div-1{
+    display: flex;
+}
+.main-section-1{
+    display: flex;
+}
